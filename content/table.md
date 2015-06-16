@@ -1,3 +1,5 @@
+title: Table test
+
 Category | Action | Description
  --- | --- | ---
 Error | No report selected | User did not select a report type 
